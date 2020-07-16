@@ -1,0 +1,5 @@
+AWS_REGION: us-east-2
+AWS_VERSION: latest
+AWS_SQS_ARN: arn:aws:sqs:us-east-2:026033341139:queue1
+AWS_DYNAMODB_TABLE_NAME: MyTable
+AWS_DYNAMODB_TABLE_ARN: arn:aws:dynamodb:us-east-2:026033341139:table/MyTable
